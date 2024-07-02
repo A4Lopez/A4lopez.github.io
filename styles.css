@@ -16,8 +16,8 @@ body, html {
     position: absolute;
     pointer-events: all;
     cursor: pointer;
-    max-width: 200px; /* Adjust the size as needed */
-    max-height: 200px; /* Adjust the size as needed */
+    max-width: 150px;
+    max-height: 150px;
 }
 
 .popup {
@@ -27,7 +27,7 @@ body, html {
     border: 1px solid black;
     padding: 10px;
     z-index: 1000;
-    max-width: 300px; /* Adjust as needed */
+    max-width: 300px;
 }
 
 .close-btn {
